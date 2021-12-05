@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Political Pin Collection 
+title: My Political Pin Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Welcome! Buckle Up, Bitches
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Lets see where this ends up: CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Welcome to my digital library of political pins I have collected over the past few years. A large majority of these were found and purchased in antique malls and stores across the country during my travel adventures. Enjoy!"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
