@@ -2,6 +2,7 @@ field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
 date,Date Created,
+candidate,Political Candidate
 description,Description,
 subject,Subjects,true
 location,Location
@@ -10,9 +11,9 @@ longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 size,Item Size
-candidate,Political Candidate
 digitizationdate, Date Digitized
 type,Type,
 format,Format,
+language,Language
 rights,Rights,
 rightsstatement,Rights Statement,,true
